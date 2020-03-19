@@ -3,3 +3,8 @@ The 80/20 rule has proven true for many businesses–only a small percentage of 
 This project utilized both supervised and unsupervised machine learning techniques to:
 1) predict the future sales 
 2) cluster customer segmentations
+
+We also performed comparisons of results between 
+1) session level vs customer level  
+2) imbalance dataset vs balanced dataset 
+3) Clustered customers vs unclustered customers 
